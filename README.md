@@ -1,4 +1,4 @@
-GanbaruGPT
+# GanbaruGPT
 
 Building AI Chat Assistant using OpenAI Model. 
 An AI-based chat application that allows users to ask questions and receive AI-generated responses. Users can also view their chat history and delete chats.
